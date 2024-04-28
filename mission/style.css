@@ -1,0 +1,40 @@
+body {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.5;
+    font-size: 30px;
+}
+
+.title h2 {
+    color: #006EB6;
+    font-size: 20px;
+    border-bottom: 1px solid #006EB6;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.content main {
+    text-align: left;
+}
+
+.does-list {
+    padding-left: 20px;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
